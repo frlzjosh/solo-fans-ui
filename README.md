@@ -1,5 +1,6 @@
-# temp-chart
-
+# Solo Fans Description
+- SPA Web UI dedicated to visualizing real-time data of my room's temperature; written in Vue/TypeScript. 
+- Utilizing vue-socket-io to handle data coming continuously coming from the socket.io adapter in my node/express server: https://github.com/frlzjosh/solo-fans-server
 ## Project setup
 ```
 yarn install
